@@ -40,7 +40,7 @@
             "type": "https://w3id.org/ontoeng/factory#Part",
             "representations": [
                 {
-                    "file": "Part.glb",
+                    "file": "part.glb",
                     "unit": 1
                 }
             ],
@@ -49,7 +49,7 @@
             "properties": {
                 "mass": 1,
                 "restitution": 0.3,
-                "friction": 0.3
+                "friction": 0.5
             }
         },
         {
@@ -57,7 +57,7 @@
             "type": "https://w3id.org/ontoeng/factory#Part",
             "representations": [
                 {
-                    "file": "Part.glb",
+                    "file": "part.glb",
                     "unit": 1
                 }
             ],
@@ -66,7 +66,7 @@
             "properties": {
                 "mass": 1,
                 "restitution": 0.3,
-                "friction": 0.3
+                "friction": 0.5
             }
         },
         {
