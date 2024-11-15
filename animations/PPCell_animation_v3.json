@@ -40,16 +40,6 @@
                         "data": "animations/part1move.txt"
                     }
                 },
-        {
-                    "trigger": {
-                        "type": "timestamp",
-                        "data": "1000"
-                    },
-                    "event": {
-                        "type": "state",
-                        "descr": "moving"
-                    }
-                }
             ]
         }
     ],
