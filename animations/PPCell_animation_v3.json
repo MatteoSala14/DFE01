@@ -1,0 +1,56 @@
+{
+    "context": {
+        "assetTrail": false,
+        "UnitOfMeasureScale": 0.01,
+        "Zup": false,
+        "RepoAnim": "https://github.com/MatteoSala14/DFE01/"
+    },
+    "nodes": [
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "0"
+                    },
+                    "event": {
+                        "type": "show"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "1000"
+                    },
+                    "event": {
+                        "type": "animationAdditive",
+                        "data": "animations/part_1_move.txt"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "1000"
+                    },
+                    "event": {
+                        "type": "state",
+                        "descr": "moving"
+                    }
+                }
+            ]
+        }
+    ],
+    "sequences": [],
+    "bookmarks": []
+}
