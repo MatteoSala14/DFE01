@@ -36,7 +36,7 @@
                         "data": "1000"
                     },
                     "event": {
-                        "type": "animationAdditive",
+                        "type": "animation",
                         "data": "https://MatteoSala14.github.io/DFE01/animations/part1move.txt"
                     }
                 },
