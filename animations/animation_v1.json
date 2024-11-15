@@ -1,0 +1,1350 @@
+{
+    "context": {
+        "assetTrail": false,
+        "UnitOfMeasureScale": 0,
+        01,
+        "Zup": false,
+        "RepoAnim": ""
+    },
+    "nodes": [
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "0"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": 10,
+                        "rotation": 23,
+                        "placementRelTo": "254"
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "1000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            254
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "2000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            254.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "3000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            254.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "4000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            254.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "5000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            255
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "6000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            255.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "7000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            255.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "8000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            255.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "9000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            256
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "10000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            256.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "11000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            256.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "12000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            256.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "13000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            257
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "14000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            257.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "15000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            257.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "16000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            257.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "17000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            258
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "18000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            258.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "19000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            258.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "20000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            258.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "21000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            259
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "22000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            259.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "23000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            259.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "24000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            259.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "25000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            260
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "26000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            260.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "27000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            260.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "28000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            260.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "29000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            261
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "30000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            261.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "31000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            261.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "32000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            261.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "33000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            262
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "34000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            262.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "35000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            262.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "36000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            262.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "37000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            263
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "38000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            263.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "39000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            263.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "40000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            263.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "41000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            264
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "42000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            264.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "43000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            264.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "44000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            264.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "45000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            265
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "46000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            265.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "47000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            265.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "48000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            265.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "49000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            266
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "50000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            266.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "51000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            266.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "52000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            266.75
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "53000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            267
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "54000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            267.25
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        },
+        {
+            "id": "part_1",
+            "actions": [
+                {
+                    "trigger": {
+                        "type": "timestamp",
+                        "data": "55000"
+                    },
+                    "event": {
+                        "type": "show",
+                        "position": [
+                            10,
+                            23,
+                            267.5
+                        ],
+                        "rotation": [
+                            -1.57,
+                            0,
+                            0
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "sequences": [],
+    "bookmarks": []
+}
