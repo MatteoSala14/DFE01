@@ -65,7 +65,7 @@
             "type": "https://w3id.org/ontoeng/factory#Part",
             "representations": [
                 {
-                    "file": "Part.glb",
+                    "file": "Part_green.glb",
                     "unit": 1
                 }
             ],
@@ -90,7 +90,7 @@
             "type": "https://w3id.org/ontoeng/factory#Part",
             "representations": [
                 {
-                    "file": "Part.glb",
+                    "file": "Part_blue.glb",
                     "unit": 1
                 }
             ],
@@ -115,7 +115,7 @@
             "type": "https://w3id.org/ontoeng/factory#Part",
             "representations": [
                 {
-                    "file": "Part.glb",
+                    "file": "Part_green.glb",
                     "unit": 1
                 }
             ],
